@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "output": ".\\build",
+    "programmer": "Atmel-ICE (AVR)",
+    "sketch": "SampleCode.ino",
+    "port": "COM3"
+}
